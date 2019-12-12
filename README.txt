@@ -1,4 +1,4 @@
-Business Card app
+Business Card app.
 
 We are creating two important functionalities using Barcode scanner.
 
