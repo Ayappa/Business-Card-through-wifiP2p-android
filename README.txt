@@ -9,3 +9,5 @@ We are creating two important functionalities using Barcode scanner.
 - The app will directly store the data of the scanned user once the user confirms in the "Contacts" of the user.
 -The app will facilitate to share images with other users over WIFI
 - The app will let users send messages till they are connected.
+
+demo- https://drive.google.com/file/d/1vV4oPBjOvNYLXAjwMqsIU3CM4KmQurHb/view
